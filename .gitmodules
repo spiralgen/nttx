@@ -1,0 +1,6 @@
+[submodule "moma"]
+	path = moma
+	url = https://github.com/Naifeng/moma.git
+[submodule "benchntt"]
+	path = benchntt
+	url = https://github.com/Naifeng/benchntt.git
